@@ -1,0 +1,5 @@
+track HEK_WT_mito_1
+bigDataUrl HEK_WT_mito_1.bw
+shortLabel mitochondria
+longLabel mitochondrial reads
+type bigWig
