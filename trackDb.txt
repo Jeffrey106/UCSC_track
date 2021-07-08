@@ -1,7 +1,7 @@
 track HEK_WT_mito_1
 bigDataUrl HEK_WT_mito_1
-shortLabel HEK_WT_mito_1 15.5 rep1 forward
-longLabel HEK_WT_mito_1 15.5 rep1 forward
+shortLabel HEK_WT_mito_1
+longLabel HEK_WT_mito_1
 type bigWig
 visibility full
 autoScale on
