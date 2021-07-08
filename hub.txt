@@ -1,0 +1,6 @@
+hub HEK_WT_mito_1
+shortLabel HEK
+longLabel HEK_mm10_data
+genomesFile https://raw.githubusercontent.com/Jeffrey106/UCSC_track/main/genomes.txt
+email wanghaining19@mails.ucas.ac.cn
+descriptionUrl descriptionUrl

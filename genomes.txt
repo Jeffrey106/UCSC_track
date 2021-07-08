@@ -1,0 +1,2 @@
+genome	mm10
+trackDb	https://raw.githubusercontent.com/Jeffrey106/UCSC_track/main/mm10/trackDb.txt
