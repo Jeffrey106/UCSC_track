@@ -1,5 +1,5 @@
 track HEK_WT_mito_1
-bigDataUrl HEK_WT_mito_1.bam
-shortLabel mitochondria
-longLabel mitochondrial reads
-type bam
+bigDataUrl HEK_WT_mito_1.bw
+shortLabel mitoRP
+longLabel mitoRP_chrM_reads
+type bigWig
