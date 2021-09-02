@@ -3,3 +3,17 @@ bigDataUrl HEK_WT_mito_1.bw
 shortLabel mitoRP
 longLabel mitoRP_chrM_reads
 type bigWig
+
+
+track Su9_rep1
+bigDataUrl Su9_rep1.bw
+shortLabel Su9_rep1
+longLabel CLIP_Su9_rep1
+type bigWig
+
+
+track Su9_rep2
+bigDataUrl Su9_rep2.bw
+shortLabel Su9_rep2
+longLabel CLIP_Su9_rep2
+type bigWig
