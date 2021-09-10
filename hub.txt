@@ -1,5 +1,5 @@
 hub CLIP
-shortLabel CLIP
+shortLabel FHP
 longLabel Free&HF&PS
 genomesFile https://raw.githubusercontent.com/Jeffrey106/UCSC_track/master/genomes.txt
 email wanghaining19@mails.ucas.ac.cn
