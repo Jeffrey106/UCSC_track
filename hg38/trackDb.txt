@@ -3,6 +3,7 @@ bigDataUrl Free_CLIP_8.bw
 shortLabel Free_rep1
 longLabel CLIP_Free_replicate1
 type bigWig
+priority 1
 
 
 track Free_CLIP_9
@@ -10,6 +11,7 @@ bigDataUrl Free_CLIP_9.bw
 shortLabel Free_rep2
 longLabel CLIP_Free_replicate2
 type bigWig
+priority 2
 
 
 track HF_CLIP_1
@@ -17,6 +19,7 @@ bigDataUrl HF_1.bw
 shortLabel HF_rep1
 longLabel CLIP_HF_replicate1
 type bigWig
+priority 3
 
 
 track HF_CLIP_2
@@ -24,6 +27,7 @@ bigDataUrl HF_2.bw
 shortLabel HF_rep2
 longLabel CLIP_HF_replicate2
 type bigWig
+priority 4
 
 
 track Polysome_CLIP_5
@@ -31,6 +35,7 @@ bigDataUrl Polysome_CLIP_5.bw
 shortLabel Polysome_rep1
 longLabel CLIP_Polysome_replicate1
 type bigWig
+priority 5
 
 
 track Polysome_CLIP_6
@@ -38,6 +43,7 @@ bigDataUrl Polysome_CLIP_6.bw
 shortLabel Polysome_rep2
 longLabel CLIP_Polysome_replicate2
 type bigWig
+priority 6
 
 
 track Polysome_CLIP_7
@@ -45,3 +51,4 @@ bigDataUrl Polysome_CLIP_7.bw
 shortLabel Polysome_rep3
 longLabel CLIP_Polysome_replicate3
 type bigWig
+priority 7
