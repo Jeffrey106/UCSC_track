@@ -12,6 +12,20 @@ longLabel CLIP_Free_replicate2
 type bigWig
 
 
+track HF_CLIP_1
+bigDataUrl HF_1.bw
+shortLabel HF_rep1
+longLabel CLIP_HF_replicate1
+type bigWig
+
+
+track HF_CLIP_2
+bigDataUrl HF_2.bw
+shortLabel HF_rep2
+longLabel CLIP_HF_replicate2
+type bigWig
+
+
 track Polysome_CLIP_5
 bigDataUrl Polysome_CLIP_5.bw
 shortLabel Polysome_rep1
