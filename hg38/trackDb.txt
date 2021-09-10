@@ -46,9 +46,4 @@ type bigWig
 priority 6
 
 
-track Polysome_CLIP_7
-bigDataUrl Polysome_CLIP_7.bw
-shortLabel Polysome_rep3
-longLabel CLIP_Polysome_replicate3
-type bigWig
-priority 7
+
