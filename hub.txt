@@ -1,6 +1,6 @@
 hub CLIP
 shortLabel CLIP
-longLabel CLIP_Free_Polysome_bigwig
+longLabel Free&HF&PS
 genomesFile https://raw.githubusercontent.com/Jeffrey106/UCSC_track/master/genomes.txt
 email wanghaining19@mails.ucas.ac.cn
 descriptionUrl descriptionUrl
